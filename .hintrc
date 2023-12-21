@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "connector": {
     "name": "local",
@@ -16,3 +17,6 @@
     "no-inline-styles:error"
   ]
 }
+=======
+
+>>>>>>> 40221a28ca124500c19fa825d84f016979de97f6
